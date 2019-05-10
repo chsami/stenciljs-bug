@@ -20,7 +20,7 @@
     "konva": "^3.2.5"
   },
   "devDependencies": {
-    "@stencil/core": "~0.16.2"
+    "@stencil/core": "^0.18.1"
   },
   "license": "MIT"
 }
